@@ -48,5 +48,6 @@ Wichtige Daten sollten mindestens an einem Ort außerhalb des Geräts gespeicher
 
 ## Weiterlesen
 
+
 - [Digitale Identitäten](../03-digitale-identitaeten/README.md)
 - [Cloud-Dienste verstehen](../05-cloud-dienste-verstehen/README.md)
